@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pvsnarsimha.github.io/frontend-project-8/sitemap.xml
